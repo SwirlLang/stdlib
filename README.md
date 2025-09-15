@@ -1,2 +1,2 @@
 # Swirl Standard Library
-The Swirl Standard Library written
+The Swirl Standard Library
